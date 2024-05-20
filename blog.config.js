@@ -33,7 +33,7 @@ const BLOG = {
   CONTACT_WEIBO: process.env.NEXT_PUBLIC_CONTACT_SMALLREDBOOK || '', // 你的微博个人主页
   CONTACT_Wechat: process.env.NEXT_PUBLIC_CONTACT_TWITTER || '', // 你的微信个人主页
   CONTACT_GITHUB: process.env.NEXT_PUBLIC_CONTACT_GITHUB || 'https://github.com/VioletWen11', // 你的github个人主页 例如 https://github.com/tangly1024
-  CONTACT_LITTLEREDBOOK: process.env.NEXT_PUBLIC_CONTACT_TELEGRAM || 'https://www.xiaohongshu.com/user/profile/60ee65be00000000010044a6?xhsshare=CopyLink&appuid=60ee65be00000000010044a6&apptime=1716175671', // 你的telegram 地址 例如 https://t.me/tangly_1024
+  CONTACT_LITTLEREDBOOK: process.env.NEXT_PUBLIC_CONTACT_TELEGRAM || '', // 你的telegram 地址 例如 https://t.me/tangly_1024
   CONTACT_LINKEDIN: process.env.NEXT_PUBLIC_CONTACT_LINKEDIN || '', // 你的linkedIn 首页
   CONTACT_INSTAGRAM: process.env.NEXT_PUBLIC_CONTACT_INSTAGRAM || '', // 您的instagram地址
   CONTACT_BILIBILI: process.env.NEXT_PUBLIC_CONTACT_BILIBILI || '', // B站主页
